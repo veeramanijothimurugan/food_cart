@@ -2,7 +2,7 @@ import "../components/home.css";
 import Food from "./Food";
 import data from "../assets/food.json";
 
-const Home = () => {
+const Home = ({cart,setCart}) => {
   return (
     <>
       <div className="sologan">
@@ -12,9 +12,9 @@ const Home = () => {
           <span>Where Every Dish Tells a Tale of Craftsmanship</span>
         </h2>
       </div>
-      <div className="container">
+      <div className="home-container">
         {data.map((food) => (
-          <Food key={food.id} food={food} />
+          <Food key={food.id} food={food} cart={cart} setCart={setCart} />
         ))}
       </div>
     </>

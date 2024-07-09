@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../components/header.css";
 
-const Header = () => {
+const Header = ({cart}) => {
   return (
     <div>
       <div className="nav-bar">
@@ -19,7 +19,7 @@ const Header = () => {
             <li>
               <Link to={"/Cart"}>
                 <img className="icon" src="./cart.png" alt="" />
-                  Cart<span id="count"> 1</span>
+                  Cart<span id="count"> {cart.length}</span>
               </Link>
             </li>
           </ul>

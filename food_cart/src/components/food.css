@@ -2,11 +2,12 @@
 .card{
     overflow: hidden;
     width: 250px;
-    height: 290px;
+    height: 330px;
     padding-bottom: 10px;
     box-shadow: 0px 0px 5px rgb(202, 202, 202);
     margin: 10px;
 }
+
 
 .num{
     position: absolute;
@@ -45,22 +46,49 @@
     color: #747474;
 }
 
-button{
+.add{
     padding: 7px 10px;
     width: 92%;
-    margin: 20px 0px 00px 10px;
-    align-items: center;
     font-weight: bold;
     background-color: #fff;
     border: none;
     border-radius: 5px;
     color: rgb(33, 178, 33);
     box-shadow: 0px 0px 5px rgb(182, 182, 182);
-    transition: 0.5s;
+    transition: 0.7s;
+    position: relativ;
+    margin: 10px;
 }
 
-button:hover {
+.remove{
+    padding: 7px 10px;
+    width: 92%;
+    font-weight: bold;
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgb(182, 182, 182);
+    transition: 0.7s;
+    position: relativ;
+    margin: 10px;
+}
+
+.remove:hover{
+    background-color: orangered;
+    color: #fff;
+}
+
+.ingredients{
+    font-size: 12px !important;
+    color: rgb(81, 81, 81);
+}
+
+.add:hover {
     background-color: rgb(33, 178, 33);
     color: #fff;
 }
 
+.details{
+    width: 100%;
+}

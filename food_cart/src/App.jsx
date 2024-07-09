@@ -5,6 +5,7 @@ import Home from './components/Home'
 import Cart from './components/Cart'
 import { useState } from 'react'
 import food from "./assets/food.json"
+import Footer from './components/Footer'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
             <Route path='/cart' element={<Cart food={food} cart={cart} setCart={setCart}/>}/>
           </Routes>
         </div>
+        <Footer/>
       </BrowserRouter>
     </>
   )

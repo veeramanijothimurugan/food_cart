@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Dosai",
+      "price": 50,
+      "image": "https://cdn.tasteatlas.com//Images/Dishes/ba7bab747c7e41769dbc895a84626a23.jpg?w=905&h=510",
+      "ratings": 4.5,
+      "veg": true
+    },
+    {
+      "id": 2,
+      "name": "Pongal",
+      "price": 60,
+      "image": "https://www.tasteatlas.com/images/dishes/a4a2780dee054e0c9e764bb7ad1ae820.jpg?mw=1300",
+      "ratings": 4.2,
+      "veg": true
+    },
+    {
+      "id": 3,
+      "name": "Idli",
+      "price": 40,
+      "image": "https://cdn.tasteatlas.com//Images/Dishes/7389072b562f4dd6b08608b2692b4728.jpg?w=250&h=141",
+      "ratings": 4.8,
+      "veg": true
+    },
+    {
+      "id": 4,
+      "name": "Tikka",
+      "price": 80,
+      "image": "https://cdn.tasteatlas.com//Images/Dishes/86a6a97ee81c40f8adc25066215a62d1.jpg?w=905&h=510",
+      "ratings": 4.0,
+      "veg": false
+    },
+    {
+      "id": 5,
+      "name": "Biryani",
+      "price": 120,
+      "image": "https://cdn.tasteatlas.com//images/dishes/3bd6dfaf53e244dfb7f3ee390447a2f8.jpg?w=905&h=510",
+      "ratings": 4.7,
+      "veg": false
+    },
+    {
+      "id": 6,
+      "name": "Vadai",
+      "price": 20,
+      "image": "https://www.tasteatlas.com/Images/Dishes/d69c2f9b128a49299056a0bb9eca8a45.jpg?mw=1300",
+      "ratings": 4.4,
+      "veg": true
+    },
+    {
+      "id": 7,
+      "name": "Rasam",
+      "price": 35,
+      "image": "https://www.tasteatlas.com/Images/Dishes/4ff368c7e0794e12a9e06a8589f8c408.jpg?mw=1300",
+      "ratings": 4.3,
+      "veg": true
+    },
+    {
+      "id": 8,
+      "name": "Chettinad Chicken",
+      "price": 150,
+      "image": "https://cdn.tasteatlas.com/images/dishrestaurants/b4c287e511cc42cab3761a76348c734b.jpg?w=600&h=400",
+      "ratings": 4.6,
+      "veg": false
+    },
+    {
+      "id": 9,
+      "name": "Appam",
+      "price": 55,
+      "image": "https://www.tasteatlas.com/Images/Dishes/7de2a201d16e44b18e983b2e402b3737.jpg?mw=1300",
+      "ratings": 4.1,
+      "veg": true
+    },
+    {
+      "id": 10,
+      "name": "Murukku",
+      "price": 25,
+      "image": "https://www.tasteatlas.com/Images/Dishes/c16962366c9745e9b8cf4f17f3532a2e.jpg?mw=1300",
+      "ratings": 4.0,
+      "veg": true
+    },
+    {
+      "id": 11,
+      "name": "Fish Curry",
+      "price": 90,
+      "image": "https://www.tasteatlas.com/images/dishes/d8ee9c9a268d42f3ba256244b45c541d.jpg?mw=1300",
+      "ratings": 4.8,
+      "veg": false
+    },
+    {
+      "id": 12,
+      "name": "Payasam",
+      "price": 45,
+      "image": "https://www.tasteatlas.com/images/dishes/67f10cadc4de457bbbefb3600c2298e7.jpg?mw=1300",
+      "ratings": 4.7,
+      "veg": true
+    },
+    {
+      "id": 13,
+      "name": "Parotta",
+      "price": 70,
+      "image": "https://www.tasteatlas.com/images/dishes/f3e4479405ad421e8c6cb64a6b4032e3.jpg?mw=1300",
+      "ratings": 4.2,
+      "veg": true
+    },
+    {
+      "id": 15,
+      "name": "Bisi Bele Bath",
+      "price": 80,
+      "image": "https://www.tasteatlas.com/Images/Dishes/aa4f2eb13796465e96a0ea39a5663943.jpg?mw=1300",
+      "ratings": 4.3,
+      "veg": true
+    },
+    {
+      "id": 16,
+      "name": "Puri",
+      "price": 40,
+      "image": "https://cdn.tasteatlas.com//Images/Dishes/a111291d959e40789af1280bba00f5c8.jpg?w=905&h=510",
+      "ratings": 4.0,
+      "veg": true
+    }
+  ]
+  

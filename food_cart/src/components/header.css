@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anton+SC&family=Lilita+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.icon{
+    width: 15px;
+}
+
+.nav-bar{
+    height: 50px;
+    display: flex;
+    padding: 0px 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    background-color: #000;
+}
+
+.logo{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    color: #fff;
+    font-weight: 600;
+}
+
+.logo img{
+    width: 35px;
+}
+
+.nav-bar ul{
+    display: inline-flex;
+    gap: 10px;
+}
+
+.nav-bar ul li{
+    list-style: none;
+    padding: 5px 10px;
+}
+
+.nav-bar ul li:active{
+    background-color: transparent;
+}
+
+.nav-bar ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#count{
+    color: rgb(255, 206, 71);
+}
